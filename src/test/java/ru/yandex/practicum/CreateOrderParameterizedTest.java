@@ -34,7 +34,7 @@ public class CreateOrderParameterizedTest {
     }
 
     @Test
-    @DisplayName("Создание заказа")
+    @DisplayName("Создание заказа (перестало работать, ошибка сервера 500)")
     @Description("Проверяем:\n" +
             " - можно создать заказ с разными наборами цветов\n" +
             " - тело ответа содержит track")
