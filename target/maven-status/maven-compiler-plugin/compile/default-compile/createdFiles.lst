@@ -1,0 +1,7 @@
+ru\yandex\practicum\CourierClient.class
+ru\yandex\practicum\OrderClient.class
+ru\yandex\practicum\BaseApiClient.class
+ru\yandex\practicum\model\Order.class
+ru\yandex\practicum\model\Courier.class
+ru\yandex\practicum\model\CreateCourierResponse.class
+ru\yandex\practicum\model\CourierCredentials.class
