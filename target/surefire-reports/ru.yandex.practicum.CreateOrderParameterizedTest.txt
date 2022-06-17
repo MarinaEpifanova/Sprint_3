@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: ru.yandex.practicum.CreateOrderParameterizedTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 1.843 s <<< FAILURE! - in ru.yandex.practicum.CreateOrderParameterizedTest
+ordersTestNormalCreate[0](ru.yandex.practicum.CreateOrderParameterizedTest)  Time elapsed: 0.872 s  <<< FAILURE!
+java.lang.AssertionError: expected:<201> but was:<500>
+	at ru.yandex.practicum.CreateOrderParameterizedTest.ordersTestNormalCreate(CreateOrderParameterizedTest.java:46)
+
+ordersTestNormalCreate[1](ru.yandex.practicum.CreateOrderParameterizedTest)  Time elapsed: 0.454 s  <<< FAILURE!
+java.lang.AssertionError: expected:<201> but was:<500>
+	at ru.yandex.practicum.CreateOrderParameterizedTest.ordersTestNormalCreate(CreateOrderParameterizedTest.java:46)
+
+ordersTestNormalCreate[2](ru.yandex.practicum.CreateOrderParameterizedTest)  Time elapsed: 0.291 s  <<< FAILURE!
+java.lang.AssertionError: expected:<201> but was:<500>
+	at ru.yandex.practicum.CreateOrderParameterizedTest.ordersTestNormalCreate(CreateOrderParameterizedTest.java:46)
+
+ordersTestNormalCreate[3](ru.yandex.practicum.CreateOrderParameterizedTest)  Time elapsed: 0.202 s  <<< FAILURE!
+java.lang.AssertionError: expected:<201> but was:<500>
+	at ru.yandex.practicum.CreateOrderParameterizedTest.ordersTestNormalCreate(CreateOrderParameterizedTest.java:46)
+
